@@ -1,0 +1,1 @@
+document.write(" A programação é aprendida escrevendo programas Brian Kernighan");

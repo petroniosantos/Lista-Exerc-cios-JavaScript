@@ -1,0 +1,5 @@
+pes = parseInt(prompt("Insira o valor em pes: ")) 
+polegada = (pes * 12) 
+jarda = (pes / 3) 
+milha = (pes / 1.760) 
+document.write("O valor em polegadas é de: ",polegada,"O valor em jarda:", jarda, "O valor em milha:", milha) 

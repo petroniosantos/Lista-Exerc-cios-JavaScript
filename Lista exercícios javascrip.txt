@@ -1,0 +1,107 @@
+1. Escreva um algoritmo que imprima na tela: Olá Mundo!
+
+
+2. Escreva um programa que imprima seu nome na tela.
+
+
+3. Escreva um algoritmo que imprima na tela a seguinte mensagem:
+
+ 
+
+          A programação é aprendida escrevendo programas
+         Brian Kernighan
+
+ 
+
+4. Crie um algoritmo que imprima o produto entre os números 25 e 27
+
+ 
+
+5. Crie um algoritmo que imprima a média aritmética entre os números 4, 12, 15.
+
+ 
+
+6. Faça um programa que leia um número inteiro e mostre-o na tela da seguinte forma: O número inteiro digitado foi 4.
+
+ 
+
+7. Faça um programa que leia e imprima dois números inteiros na tela.
+
+ 
+
+8. Faça um programa que leia um número inteiro e imprima seu número sucessor e antecessor.
+
+ 
+
+9. Faça um programa que leia o nome, endereço e telefone de um usuário e imprima na tela.
+
+ 
+
+10. Faça um programa que leia e multiplique dois números inteiros.
+
+ 
+
+11. Faça um programa que leia um número real e imprima a terça parte deste número.
+
+ 
+
+12. Faça um programa que lei dois números inteiros e imprima o dividendo, divisor, quociente e resto da divisão.
+
+ 
+
+13. Faça um programa que leia quatro números inteiros, calcule e mostre a soma desses números.
+
+ 
+
+14. Faça um programa que receba três notas, calcule e mostre a média aritmética.
+
+ 
+
+15. Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
+
+ 
+
+16. Faça um programa que receba o salário de um funcionário, calcule e mostre o novo salário, sabendo-se que este sofreu um aumento de 25%.
+
+ 
+
+17. Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
+
+ 
+
+18. Faça um programa que receba o salário base de um funcionário, calcule e mostre o salário a receber, sabendo-se que o funcionário tem gratificação de 5% sobre o salário base e paga imposto de 7% também sobre o salário base.
+
+ 
+
+19. Faça um programa que receba o salário base de um funcionário, calcule e mostre seu salário a receber, sabendo-se que o funcionário tem gratificação de R$ 50,00 e paga imposto de 10% sobre o salário base.
+
+ 
+
+20. Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
+
+ 
+
+21. Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura) / 2.
+
+ 
+
+22. Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = π * R².
+
+ 
+
+23. Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
+    a. o número digitado ao quadrado;
+    b. o número digitado ao cubo;
+    c. a raiz quadrada do número digitado;
+    d. a raiz cúbica do número digitado.
+
+ 
+
+24. Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
+
+ 
+
+25. Sabe-se que: pé = 12 polegadas; 1 jarda = 3 pés e 1 milha = 1,760 jarda. Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados.
+    a. polegadas;
+    b. jardas;
+    c. milhas.
